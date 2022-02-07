@@ -1,0 +1,4 @@
+- Hello, My name is Gottfrid.
+- I am interested in learning how to Program.
+- Im currently learning how to make a mod for minecraft using fabric, and with that comes learning java.
+- In the future i might learn how to use OpenGL to make a game, altho that will be in a while.
